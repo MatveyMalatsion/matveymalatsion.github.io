@@ -1,0 +1,22 @@
+{
+    "popular": [
+        {
+            "title": "Человек паук",
+            "rating": 5,
+            "author": "Матвей",
+            "cover": "smLogo.jpg"
+        },
+        {
+            "title": "Бэтмен",
+            "rating": 4,
+            "author": "Крутой чел",
+            "cover": "bmLogo.jpeg"
+        },
+        {
+            "title": "Хранители",
+            "rating": 2,
+            "author": "Крутой чел",
+            "cover": "wmLogo.jpg"
+        }
+    ]
+}
