@@ -1,5 +1,4 @@
-{
-    "popular": [
+[
         {
             "title": "Человек паук",
             "rating": 5,
@@ -18,5 +17,4 @@
             "author": "Крутой чел",
             "cover": "wmLogo.jpg"
         }
-    ]
-}
+]
